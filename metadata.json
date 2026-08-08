@@ -1,0 +1,8 @@
+{
+  "name": "Claude Ads",
+  "description": "Claude-first, portable paid-media operations across twelve advertising platforms: Audits, Campaign Creation & Posting, Planning, Creative Studio, Monitoring, Mutations, Experiments, and Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
